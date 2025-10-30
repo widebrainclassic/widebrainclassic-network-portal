@@ -1,5 +1,0 @@
-/* Simple minimal styles to make UI readable without Tailwind */
-body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background:#f3f4f6; margin:0; }
-.container { max-width:1000px; margin:20px auto; padding:16px; background:#fff; border-radius:8px; box-shadow:0 1px 4px rgba(0,0,0,0.06); }
-button { cursor:pointer; }
-input, select, textarea { font-family:inherit; }
